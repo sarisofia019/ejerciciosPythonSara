@@ -1,3 +1,8 @@
+#Desarrolle un algoritmo que permita calcular nota final de algoritmia de un estudiante dadas las siguientes apreciaciones:
+# Actividades en clase equivalen a un porcentaje de 30%
+# Proyecto final 50%
+# Evaluaciones parciales 20%
+
 name=(input("Digite su nombre: "))
 #se pide que el aprendiz digite su nombre
 califactividades=float(input("Ingrese su calificación promedio de las actividades en clase: (30%) "))

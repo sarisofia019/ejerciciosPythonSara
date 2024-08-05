@@ -1,3 +1,5 @@
+#Desarrolle un programa que declare tres variables. La primera guardará el nombre del estudiante, la segunda el nombre del colegio, la tercera el grado que cursa. Y luego imprima el siguiente mensaje: “El estudiante xxxx estudia en el yyyy el programa de formación zzzz”
+#Donde xxxx será la variable donde almacenó el nombre, yyyy donde almacenó la inst tución y zzzz donde almacenó la formación
 name=(input("Digite su nombre: "))
 #se pide que el aprendiz digite su nombre
 ins=(input("Digite en que Centro de Formación estudia: "))

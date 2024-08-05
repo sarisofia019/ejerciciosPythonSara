@@ -1,3 +1,4 @@
+#Elabore un algoritmo que calcule el promedio de tres números, los cuales deben ser almacenados previamente en tres variables. El algoritmo debe imprimir el siguiente mensaje: El promedio de los números ingresado es: xxxx
 a=float(input("Digite un valor: "))
 #Se le pide un valor
 b=float(input("Digite el segundo valor: "))   
